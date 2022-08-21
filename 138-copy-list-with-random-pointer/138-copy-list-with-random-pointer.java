@@ -15,29 +15,44 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
+        if(head == null)
+            return null;
+        //Copy the adjacent elements
         Node ptr = head;
-        Node copyPtr = null;
-        Node copyPtrHead = null;
-        Map<Node,Node> arbMap = new HashMap<>();
         while(ptr != null){
-            if(copyPtr == null){
-                copyPtr = new Node(ptr.val);
-                copyPtrHead = copyPtr;
-            } else {
-                copyPtr.next = new Node(ptr.val);
-                copyPtr = copyPtr.next;
-            }
-            arbMap.put(ptr,copyPtr);
+            Node nextNode = ptr.next;
+            ptr.next = new Node(ptr.val);
+            ptr = ptr.next;
+            ptr.next = nextNode;
             ptr = ptr.next;
         }
         
-        copyPtr = copyPtrHead;
+        //Copy the next random pointer
         ptr = head;
-        while(copyPtr != null){
-            copyPtr.random = arbMap.get(ptr.random);
-            copyPtr = copyPtr.next;
+        while(ptr != null){
+            Node random = ptr.random;
+            ptr = ptr.next;
+            if(random != null){
+                ptr.random = random.next;
+            }
             ptr = ptr.next;
         }
-        return copyPtrHead;
+        
+        //Seperate the list into two
+        Node copiedHead = head.next;
+        ptr = head;
+        while(ptr != null){
+            Node next = ptr.next;
+            if(ptr.next != null)
+                ptr.next = ptr.next.next;
+            else
+                ptr.next = null;
+            if(ptr.next != null)
+                next.next = ptr.next.next;
+            else
+                next.next = null;
+            ptr = ptr.next;
+        }
+        return copiedHead;
     }
 }
