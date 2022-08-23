@@ -17,17 +17,12 @@ class Solution {
         if(root == null){
             return null;
         }
-        if(root == p){
-            return p;
-        } else if (root == q){
-            return q;
-        }
-        if((p.val < root.val && q.val > root.val ) || (q.val < root.val && p.val > root.val )){
-            return root;
-        } else if ( p.val > root.val && q.val > root.val) {
+        if (p.val > root.val && q.val > root.val) {
             return findLowestAncestor(root.right, p, q);
-        } else {
+        } else if (p.val < root.val && q.val < root.val){
             return findLowestAncestor(root.left, p, q);
+        } else {
+            return root;
         }
     }
 }
