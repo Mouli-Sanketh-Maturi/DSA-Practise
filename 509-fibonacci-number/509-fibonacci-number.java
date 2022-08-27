@@ -10,6 +10,8 @@ class Solution {
         if(fbSeries.get(n) != null){
             return fbSeries.get(n);
         }
-        return fib(n-1,fbSeries) + fib(n-2,fbSeries);
+        int sol = fib(n-1,fbSeries) + fib(n-2,fbSeries);
+        fbSeries.put(n,sol);
+        return sol;
     }
 }
