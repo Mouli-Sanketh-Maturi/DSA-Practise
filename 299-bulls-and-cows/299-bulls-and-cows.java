@@ -23,6 +23,11 @@ class Solution {
                 secretMap.put(c,secretMap.get(c)-1);
             }
         }
-        return bullCount+"A"+cowCount+"B";
+        StringBuilder sb = new StringBuilder();
+        sb.append(bullCount);
+        sb.append("A");
+        sb.append(cowCount);
+        sb.append("B");
+        return sb.toString();
     }
 }
