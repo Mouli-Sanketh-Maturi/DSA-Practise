@@ -19,7 +19,7 @@ class Solution {
                 Integer b = stack.pop();
                 stack.push(b/a);
             } else {
-                stack.push(Integer.valueOf(token));
+                stack.push(Integer.parseInt(token));
             }
         }
         return stack.pop();
