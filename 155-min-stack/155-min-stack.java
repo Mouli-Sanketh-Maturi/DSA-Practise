@@ -1,48 +1,26 @@
 class MinStack {
 
-    Integer min;
     Node head;
     
     public MinStack() {
-        this.min = null;
         this.head = null;
     }
     
     public void push(int val) {
         if(head == null){
-            this.head = new Node(val,null,null);
-            this.min = val;
+            this.head = new Node(val,null,null,val);
         } else {
-            head.right = new Node(val,head,null);
+            head.right = new Node(val,head,null,Math.min(head.min,val));
             head = head.right;
-            if(val < this.min)
-                this.min = val;
         }
     }
     
     public void pop() {
         if(head == null)
             return;
-        if(head.val.equals(this.min)){
-            findMin(head.left);
-        }
         head = head.left;
         if(head != null)
             head.right = null;
-    }
-    
-    private void findMin(Node ptr){
-        if(ptr == null){
-            this.min = null;
-            return;
-        }
-        int currentMin = ptr.val;
-        while(ptr != null){
-            if(ptr.val < currentMin)
-                currentMin = ptr.val;
-            ptr = ptr.left;
-        }
-        this.min = currentMin;
     }
     
     public int top() {
@@ -52,7 +30,9 @@ class MinStack {
     }
     
     public int getMin() {
-        return this.min;
+        if(head == null)
+            return 0;
+        return head.min;
     }
 }
 
@@ -61,11 +41,13 @@ class Node {
     Node right;
     Node left;
     Integer val;
+    Integer min;
     
-    public Node(Integer val, Node left, Node right){
+    public Node(Integer val, Node left, Node right, Integer min){
         this.left = left;
         this.right = right;
         this.val = val;
+        this.min = min;
     }
     
 }
