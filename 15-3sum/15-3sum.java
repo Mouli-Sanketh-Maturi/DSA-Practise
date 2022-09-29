@@ -6,7 +6,7 @@ class Solution {
             int low = i+1;
             int high = nums.length-1;
             
-            while(low < high){
+            while(low < high && nums[i] <= 0){
                 if(nums[i] + nums[low] + nums[high] == 0){
                     List<Integer> sumList = new ArrayList<>();
                     sumList.add(nums[i]);
