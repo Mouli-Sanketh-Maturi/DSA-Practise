@@ -6,8 +6,11 @@ func maxProfit(prices []int) int {
 	for _,p := range prices {
 		if p < lowestPrice {
 			lowestPrice = p
-		} else if (p - lowestPrice) > maxProfit {
-			maxProfit = p - lowestPrice
+            continue
+		}
+        localMaxProfit := p - lowestPrice
+        if (localMaxProfit) > maxProfit {
+			maxProfit = localMaxProfit
 		}
 	}
 
