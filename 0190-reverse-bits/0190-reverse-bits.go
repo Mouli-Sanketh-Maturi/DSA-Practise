@@ -5,9 +5,7 @@ func reverseBits(num uint32) uint32 {
 	for i := 0; i < 32; i++ {
 		bit := num & 1
 		temp = temp << 1
-		if bit == 1 {
-			temp = temp | 1
-		}
+		temp = temp | bit
 		num = num >> 1
 	}
 
