@@ -1,11 +1,5 @@
 func merge(intervals [][]int) [][]int {
 
-	size := len(intervals)
-
-	if size <= 1 {
-		return intervals
-	}
-
 	sort.Slice(intervals, func(i, j int) bool {
 		return intervals[i][0] < intervals[j][0]
 	})
@@ -14,7 +8,7 @@ func merge(intervals [][]int) [][]int {
 
 	mergedInterval := [][]int{}
 
-	for i := 1; i < size; i++ {
+	for i := 1; i < len(intervals); i++ {
 		if intervals[i][0] <= newInterval[1] {
 			newInterval[0] = min(newInterval[0], intervals[i][0])
 			newInterval[1] = max(newInterval[1], intervals[i][1])
