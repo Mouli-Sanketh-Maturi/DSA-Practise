@@ -10,7 +10,7 @@ class Solution {
                 maxProduct = Math.max(product, maxProduct);
             }
         }
-
+        
         return maxProduct;
     }
 }
