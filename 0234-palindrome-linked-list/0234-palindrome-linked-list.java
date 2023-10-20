@@ -27,8 +27,6 @@ class Solution {
         ListNode head2 = reverse(slow);
 
         while(head2 != null) {
-            System.out.println("head1: "+head.val);
-            System.out.println("head2: "+head2.val);
             if(head.val != head2.val) {
                 return false;
             }
