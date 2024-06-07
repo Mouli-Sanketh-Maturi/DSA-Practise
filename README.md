@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Depth-First Search
 |  |
 | ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0871-keys-and-rooms](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0871-keys-and-rooms) |
 # Breadth-First Search
 |  |
@@ -42,3 +43,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
+# Tree
+|  |
+| ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+# Binary Tree
+|  |
+| ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
