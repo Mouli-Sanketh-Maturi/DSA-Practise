@@ -22,3 +22,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0097-interleaving-string) |
+# Linked List
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
+# Stack
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
+# Design
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
+# Ordered Set
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
