@@ -51,3 +51,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+# Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0283-move-zeroes) |
+# Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0283-move-zeroes) |
