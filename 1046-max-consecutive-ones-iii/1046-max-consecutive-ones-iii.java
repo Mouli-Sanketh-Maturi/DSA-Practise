@@ -10,11 +10,9 @@ class Solution {
                     currentFlips++;
                 } else {
                     while (true) {
-                        if(nums[left] == 0) {
-                            left++;
+                        if(nums[left++] == 0) {
                             break;
                         }
-                        left++;
                     }
                 }
             }
