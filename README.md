@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0871-keys-and-rooms](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0871-keys-and-rooms) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0871-keys-and-rooms) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 # Graph
 |  |
 | ------- |
@@ -47,10 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 # Array
 |  |
 | ------- |
@@ -74,3 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1046-max-consecutive-ones-iii) |
+# Hash Table
+|  |
+| ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
