@@ -55,7 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0283-move-zeroes) |
+| [0907-koko-eating-bananas](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0907-koko-eating-bananas) |
 # Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0283-move-zeroes) |
+# Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0907-koko-eating-bananas) |
