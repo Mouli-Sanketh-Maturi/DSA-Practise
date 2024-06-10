@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0871-keys-and-rooms](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0871-keys-and-rooms) |
@@ -12,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0871-keys-and-rooms](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
 # Stack
 |  |
@@ -50,12 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
