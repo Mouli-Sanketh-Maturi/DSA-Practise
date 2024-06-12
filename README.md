@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0097-interleaving-string) |
+| [0769-largest-plus-sign](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0769-largest-plus-sign) |
 # Linked List
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0283-move-zeroes) |
+| [0769-largest-plus-sign](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0769-largest-plus-sign) |
 | [0907-koko-eating-bananas](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1036-rotting-oranges) |
