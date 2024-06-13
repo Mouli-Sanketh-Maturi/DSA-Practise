@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0097-interleaving-string](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0097-interleaving-string) |
 | [0769-largest-plus-sign](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0769-largest-plus-sign) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 # Linked List
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1046-max-consecutive-ones-iii) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 # Two Pointers
 |  |
 | ------- |
@@ -102,3 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1036-rotting-oranges) |
+# Greedy
+|  |
+| ------- |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
