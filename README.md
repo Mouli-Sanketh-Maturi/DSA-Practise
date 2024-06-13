@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0097-interleaving-string) |
+| [0829-subdomain-visit-count](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0829-subdomain-visit-count) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0283-move-zeroes](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0283-move-zeroes) |
 | [0769-largest-plus-sign](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0769-largest-plus-sign) |
+| [0829-subdomain-visit-count](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0829-subdomain-visit-count) |
 | [0907-koko-eating-bananas](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1036-rotting-oranges) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0829-subdomain-visit-count](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0940-fruit-into-baskets) |
 # Matrix
@@ -108,3 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+# Counting
+|  |
+| ------- |
+| [0829-subdomain-visit-count](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0829-subdomain-visit-count) |
