@@ -30,8 +30,6 @@ class Solution {
             }
         }
 
-        System.out.println(finishedCourseCount);
-
         if(finishedCourseCount < numCourses) { return new int[0];}
 
         return finishOrder;
