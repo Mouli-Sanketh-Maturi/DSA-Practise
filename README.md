@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0146-lru-cache) |
 | [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
 # Stack
 |  |
@@ -49,10 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0146-lru-cache) |
 | [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
 # Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0146-lru-cache) |
 | [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
 # Ordered Set
 |  |
@@ -105,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0146-lru-cache) |
 | [0829-subdomain-visit-count](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0940-fruit-into-baskets) |
