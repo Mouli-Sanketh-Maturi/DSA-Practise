@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0097-interleaving-string](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0097-interleaving-string) |
 | [0829-subdomain-visit-count](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0829-subdomain-visit-count) |
 | [0965-unique-email-addresses](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0965-unique-email-addresses) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1046-max-consecutive-ones-iii) |
 # Prefix Sum
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0146-lru-cache) |
 | [0829-subdomain-visit-count](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
