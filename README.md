@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1171-shortest-path-in-binary-matrix) |
 # Graph
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-unique-email-addresses](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0965-unique-email-addresses) |
 | [1036-rotting-oranges](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1046-max-consecutive-ones-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 # Two Pointers
 |  |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1171-shortest-path-in-binary-matrix) |
 # Greedy
 |  |
 | ------- |
