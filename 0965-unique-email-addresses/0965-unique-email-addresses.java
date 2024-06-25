@@ -7,7 +7,6 @@ class Solution {
         String[] arr = email.split("@");
         arr[0] = arr[0].replaceAll("\\.","");
         arr[0] = arr[0].split("\\+")[0];
-        System.out.println(arr[0]+arr[1]);
         return arr[0] + "@" + arr[1];
     }
 }
