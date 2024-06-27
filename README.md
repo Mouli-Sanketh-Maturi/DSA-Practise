@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0146-lru-cache) |
+| [0359-logger-rate-limiter](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0359-logger-rate-limiter) |
 | [0716-max-stack](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0716-max-stack) |
 # Doubly-Linked List
 |  |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0146-lru-cache) |
+| [0359-logger-rate-limiter](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0359-logger-rate-limiter) |
 | [0829-subdomain-visit-count](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0940-fruit-into-baskets) |
@@ -149,3 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0042-trapping-rain-water) |
+# Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0359-logger-rate-limiter) |
