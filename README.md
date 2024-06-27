@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0042-trapping-rain-water) |
 | [0097-interleaving-string](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0097-interleaving-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0769-largest-plus-sign](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0769-largest-plus-sign) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 # Linked List
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0283-move-zeroes) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0769-largest-plus-sign](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0769-largest-plus-sign) |
 | [0829-subdomain-visit-count](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0829-subdomain-visit-count) |
 | [0907-koko-eating-bananas](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0907-koko-eating-bananas) |
@@ -104,12 +106,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1046-max-consecutive-ones-iii) |
 # Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/1046-max-consecutive-ones-iii) |
 # Prefix Sum
@@ -155,3 +159,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0359-logger-rate-limiter) |
+# Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
+# Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mouli-Sanketh-Maturi/DSA-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
